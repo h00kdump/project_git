@@ -1,2 +1,2 @@
 # project_git
-Lorem ipsum dolor
+Lorem ipsum dolor sit ammet
